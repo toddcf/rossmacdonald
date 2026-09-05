@@ -18,7 +18,7 @@ const titles = [
             },
           },
         },
-        date: new Date('April 11, 1949'),
+        date: '1949-04-11',
         publisher: {
           city: 'New York',
         },
