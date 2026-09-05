@@ -1,0 +1,30 @@
+{
+  "name": "rossmacdonald",
+  "version": "1.0.0",
+  "description": "A website analyzing the life and works of author Ross Macdonald.",
+  "scripts": {
+    "build": "node build.mjs"
+  },
+  "browserslist": [
+    "defaults"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toddcf/rossmacdonald.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/toddcf/rossmacdonald/issues"
+  },
+  "homepage": "https://github.com/toddcf/rossmacdonald#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.5.5",
+    "clean-css": "^5.3.3",
+    "html-minifier-terser": "^7.2.0",
+    "postcss": "^8.5.28",
+    "terser": "^5.51.2"
+  }
+}
